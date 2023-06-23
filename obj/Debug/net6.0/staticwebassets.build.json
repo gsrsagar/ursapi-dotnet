@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lkYav3YTNxosmWZRALgx71HyAv1gGCj/EJ4rgyWukSk=",
+  "Source": "urs-api",
+  "BasePath": "_content/urs-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

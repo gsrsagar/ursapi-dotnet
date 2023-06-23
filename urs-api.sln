@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "urs-api", "urs-api.csproj", "{3995F344-91AA-4164-87D5-B58B636727E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3C0606E3-E512-4D05-95E1-CD15E47222B8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3995F344-91AA-4164-87D5-B58B636727E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3995F344-91AA-4164-87D5-B58B636727E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3995F344-91AA-4164-87D5-B58B636727E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3995F344-91AA-4164-87D5-B58B636727E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE023A1-0900-41F3-86B0-8DC752153984}
+	EndGlobalSection
+EndGlobal
